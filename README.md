@@ -1,1 +1,1 @@
-google.com, pub-4582026512825437, DIRECT, f08c47fec0942fa0
+[app-ads.txt](https://github.com/user-attachments/files/21110507/app-ads.txt)
